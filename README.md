@@ -1,0 +1,2 @@
+# SimpleDB
+Redis like DB.
